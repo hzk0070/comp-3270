@@ -20,11 +20,9 @@ Section | Day | Time | Location
 
 # Instructional Mode
 
-filler
-
 - *Lecture meetings*: Lectures will be delivered in person. Attendance is required.
 
-- *Exams*: Exams will be given in-person during scheduled lecture times.
+- *Exams*: Exams will be given in-person during the scheduled lecture times.
 
 - *Office Hours*: Instructor office hours will be held via Zoom per the schedule
   listed in a separate section in this syllabus. In-person meetings are
@@ -43,10 +41,8 @@ situations warrant.
 
 # Course Description
 
-filler
+Algorithms for standard computational problems and techniques for analyzing their efficiency; designing efficient algorithms and experimentally evaluating their performance.
 
->**Bulletin Description:** Algorithms for standard computational problems and techniques for analyzing their efficiency; designing efficient algorithms and experimentally evaluating their performance.
->
 >**Credit Hours:** 3 (LEC)
 >
 >**Prerequisite:** COMP 3240 Discrete Structures and COMP 2210 Fundamentals of Computing II
@@ -57,21 +53,21 @@ filler
 
 By the end of this course, the student will demonstrate an ability to:
 
-- filler
+- Understand fundamental algorithms for data structure operations and solving various problems.
+- Be able to reason about how algorithms operate on specific inputs.
+- Be able to determine and prove whether an algorithm is correct.
+- Be able to analyze algorithms and calculate their efficiency.
+- Be able to debug algorithms.
+- Be able to modify and reuse algorithms.
+- Learn different algorithm design techniques.
 
 
 ---
 
-# Materials and Resources
+# Required Textbook
 
-## Textbook
+Cormen, Leiserson, Rivest, and Stein. *Introduction to Algorithms*, 3rd Edition. MIT Press.
 
-filler
-
-
-## Course Notes
-
-filler
 
 
 ---
@@ -94,7 +90,7 @@ Auburn, AL 36849
 `hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
-**office hours:** TBA  
+**office hours:** MW 9:00 a.m. - 10:30 a.m.  
 *Other times available by appointment.*  
 
 
@@ -109,13 +105,66 @@ TBA    | TBA | TBA | TBA   | TBA
 
 # Grading
 
-filler
+Your grade for the course will be determined by the points you earn on items
+in the following categories.
+
+- **Assignments** (40%): There will be five problem solving assignments (8% each).
+
+- **Project** (10%): There will be a programming project that involves the design,
+  implementation, and analysis of algorithms.
+  
+- **Midterms** (30%): There will be two closed-book midterm exams in the cours (15% each). Each exam will be administered in person in the classroom.
+
+- **Comprehensive Final Exam** (20%): Final exam will be closed-book comprehensive exam and be administered in person in the classroom.
+
+Your total score (*Total*) for the course will be calculated as follows, where
+*M* is the percentage of possible points earned on midterm exams, *E* is the
+percentage of possible points earned on final exam, *A* is the
+percentage of possible points earned on assignments, and *P* is
+the percentage of possible points earned on the project. Each percentage
+is calculated as (*points earned* / *points possible*) * 100.
+
+
+*Total* = (0.3 * *M*) + (0.2 * *E*) + (0.4 * *A*) + (0.1 * *P*)
+
+Your letter grade for the course will be assigned based on your *Total*
+numeric score using the following scale.
+
+*Total*   | Letter Grade
+--------  | ------------
+[90, 100] | A
+[80, 90)  | B
+[70, 80)  | C
+[60, 70)  | D
+[0, 60)   | F
+
+**Extra Credit:** Opportunities for extra credit are sometimes given to the
+entire class, but are never given on an individual basis.
+
 
 ---
 
-# Course Outline
+# Tentative Assignment Schedule
 
-filler
+Graded Item   | Date          
+-----------   | -----          
+Assignment 1 Release     | 8/25    
+Assignment 1 Due         | 9/1
+Assignment 2 Release     | 9/8    
+Assignment 2 Due         | 9/15     
+**Midterm Exam 1**       | **Thursday, September 22**   
+Assignment 3 Release     | 9/29     
+Project Release          | 10/4    
+Assignment 3 Due         | 10/6     
+**Midterm Exam 2**       | **Thursday, October 20**     
+Assignment 4 Release     | 11/3    
+Assignment 4 Due         | 11/10     
+Assignment 5 Release     | 11/17    
+Assignment 5 Due         | 12/2    
+Project Due              | 12/2     
+**Final Exam**           | **Monday, December 5, 8:00 a.m. - 10:30 a.m.**     
+
+
 
 ---
 
@@ -163,13 +212,13 @@ the course instructor directly for other absences.
 > 1. An official memo is sent directly to professors via email regarding the student’s absence
 
 
-## Exam and Test Makeup
+## Exam Makeup
 
-A missed exam or test can only be made up for excused absences (see policy).
+A missed exam can only be made up for excused absences (see policy).
 Students must contact the instructor **within 48 hours** from the time that the
-exam or test was given or the exam or test score will remain zero. The makeup
+exam was given or the exam or assignment score will remain zero. The makeup
 schedule is determined by the instructor and will need to be done within five
-business days from the time that the exam or test was given.  
+business days from the time that the exam was given.  
 
 
 ## Late Assignment Submission
@@ -354,6 +403,7 @@ disruption this move could cause to your personal living and study arrangements.
 Any and all results of graded items in the course are data sources for
 research and assessment, and may be used in publications related to research
 and accreditation. All such use will be anonymous.
+
 
 ## Use of content
 All materials provided as part of this course, whether online or in person, are 
