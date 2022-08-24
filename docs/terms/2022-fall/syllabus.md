@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 15, 2022*
+*Published: August 15, 2022; Updated: August 24, 2022*
 
 ---
 
@@ -96,9 +96,9 @@ Auburn, AL 36849
 
 ## Teaching Assistants
 
-GTA | Email | Lab Section | Office Hours | Office/Zoom
---- | ----- | ------- | ------------ | -----
-TBA    | TBA | TBA | TBA   | TBA
+GTA | Email | Office Hours | Office/Zoom
+--- | ----- | ------------ | -----
+Bo Hui    | bohui@auburn.edu | T 10:00 a.m. - 12:00 p.m.   | Zoom ID `209 837 5270`
 
 
 ---
