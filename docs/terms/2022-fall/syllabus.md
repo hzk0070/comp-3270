@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 15, 2022; Updated: August 24, 2022*
+*Published: August 15, 2022; Updated: September 26, 2022*
 
 ---
 
@@ -153,15 +153,15 @@ Assignment 1 Due         | 9/1
 Assignment 2 Release     | 9/8    
 Assignment 2 Due         | 9/15     
 **Midterm Exam 1**       | **Thursday, September 22**   
-Assignment 3 Release     | 9/29     
-Project Release          | 10/4    
-Assignment 3 Due         | 10/6     
-**Midterm Exam 2**       | **Thursday, October 20**     
+Assignment 3 Release     | 10/4     
+Project Release          | ~~10/4~~ TBA    
+Assignment 3 Due         | 10/13     
+**Midterm Exam 2**       | **Thursday, October 27**     
 Assignment 4 Release     | 11/3    
 Assignment 4 Due         | 11/10     
 Assignment 5 Release     | 11/17    
 Assignment 5 Due         | 12/2    
-Project Due              | 12/2     
+Project Due              | ~~12/2~~ TBA     
 **Final Exam**           | **Monday, December 5, 8:00 a.m. - 10:30 a.m.**     
 
 
